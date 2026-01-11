@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HTML Basics",
+    "url": "https://www.youtube.com/embed/dD2EISBDjWM",
+    "description": "Learn the basics of HTML structure and elements."
+  },
+  {
+    "name": "CSS Animations",
+    "url": "https://www.youtube.com/embed/1Rs2ND1ryYc",
+    "description": "How to create smooth animations using CSS keyframes."
+  },
+  {
+    "name": "JavaScript DOM",
+    "url": "https://www.youtube.com/embed/0ik6X4DJKCc",
+    "description": "Manipulate the DOM using JavaScript."
+  }
+]
